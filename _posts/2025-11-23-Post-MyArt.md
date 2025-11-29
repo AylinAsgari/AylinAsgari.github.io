@@ -5,7 +5,7 @@ title: drawing with code
 
 # This is my first Computer Art project
 
-![My painting]("/assets/images/mypainting.jpg")
+![My painting]("/assets/images/turtleart.jpg")
 
 * اضافه کردن کتابخانه های مورد نیاز و نوشتن تابع بازگشتی برای رسم درخت با زاویه بین شاخه ها به صورت رندوم
 * پس از چند مرحله بر اساس شرط قرار داده شده قبل از رسم شاخه های جدید یک برگ به درخت اضافه می شود
