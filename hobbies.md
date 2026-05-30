@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [Classical poetry](https://ganjoor.net/)
-* Going out with friends
+* Reading [Classical poetry](https://ganjoor.net/)
+* Playing badminton
 
