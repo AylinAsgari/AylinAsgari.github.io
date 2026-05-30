@@ -13,6 +13,7 @@ comments: false
 |----|------|--------------------------------|
 |2025|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-
+|2026|Spring  | **<a href="">Advanced Programming</a>**         |
+|----|------|--------------------------------|
 
 
