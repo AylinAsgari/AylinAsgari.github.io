@@ -3,7 +3,7 @@ layout: posts
 title: personal info
 ---
 
--introducing myself
+# introducing myself
 
 |  First Name | Last Name |    Major   | University |
 |-------------|-----------|------------|------------|
