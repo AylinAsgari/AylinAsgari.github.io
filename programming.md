@@ -8,7 +8,7 @@ modified: 22-11-2025
 comments: true
 ---
 
-# Some good sites for learning programming
+## Some good sites for learning programming
 
 * [W3schools](https://www.w3schools.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
