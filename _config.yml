@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Aylin"
+title                    : "Aileen"
 title_separator          : "-"
-name                     : "Aylin" 
-description              : "Welcome to my web site."
+name                     : "Aileen" 
+description              : "Welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aylin Asgariasl"
-  avatar           : "/assets/images/bio.jpg"
-  bio              : computer engineering student
+  name             : "Aylin Asgari"
+  avatar           : "/assets/images/biopic.jpg"
+  bio              : Computer Engineering student at IUST
   location         : "Tehran"
   email            : al.asgariasl@gmail.com
   # twitter: sauleh_e
